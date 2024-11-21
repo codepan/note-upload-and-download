@@ -7,4 +7,6 @@
 * [第2章 上传](chapter2/README.md)
   * [普通上传](chapter2/普通上传.md)
   * [大文件上传](chapter2/大文件上传.md)
+  * [进度条管控](chapter2/进度条管控.md)
+  * [拖拽上传](chapter2/拖拽上传.md)
 * [第3章 下载](chapter3/README.md)
